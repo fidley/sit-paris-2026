@@ -23,6 +23,7 @@ Make sure that .* resources filter is deactivated
 
 <img width="487" height="471" alt="image" src="https://github.com/user-attachments/assets/40906ac0-a4c8-4434-b925-80b55bf4dc4d" />
 
+## Quick Quality Gate Agent creation
 Now open Copilot preferences, then go to Custom Agents and press Add. Select the project you just created and add the name of the agent, for example QuickQualityGate.
 
 <img width="899" height="573" alt="image" src="https://github.com/user-attachments/assets/e3b53721-436e-42d9-b60d-2b0585766c4b" />
@@ -37,5 +38,11 @@ Click on the Configure tools... in the agent md file. Once the settings of the t
 
 Come back to editor and add Description and instruction for agent. Try to use specific tools name for specific actions, so Copilot will not lose time and tokens 
 Sample [Quick Quality Gate agent](/agents/quickqualitygate.agent.md)
+
+Open any class on your system (the smaller the faster results), open Copilot Chat and on the bottom expand the Mode dropdown and select QuickQualityGate agent.
+Inside the chat, write 
+``` Check quality ``` or ``` Check quality of class xxxxx ``` and let the agent work. The result should be similar to this.
+
+<img width="707" height="612" alt="image" src="https://github.com/user-attachments/assets/df4f6669-2d76-4fc7-9ee3-478a4f46e86d" />
 
 
