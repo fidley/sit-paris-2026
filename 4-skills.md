@@ -22,6 +22,7 @@ In the Project Explorer refresh the content of the GHCopilotInstruction folder. 
 
 <img width="1893" height="851" alt="image" src="https://github.com/user-attachments/assets/b2c9cf98-3eaf-479c-a6e2-2ded577b730c" />
 
+As you can see, all skills are available to be called explicitly. Try one or more skill on any development object you have on your dev system.
 
 
 
