@@ -29,7 +29,12 @@ Now the result are exactly where we stated. We could create second agent, that w
 
 Real power of agents is combined with several skills. When we have skills that works well, we can start to bundle them in one agent, or use selectively inside the agent.
 
+Please take a look on the agent [ABAP Build and Test](/agents/abap-build-and-test.agent.md). It contains the rules to apply all ARC-1 skills, that are linked to build or test scenario.
+Selecting the agent in Copilot before writing a prompt, secures correct skills selection on a base of structured routing, not selection done automatically by AI tools.
+
+Create the agent on your end and use this prompt to see the results.
 
 ```
-Create new abap class in $TMP package, that will select all users data, last logon and propose those which should be blocke as they're not using the system. Create unit test for all methods including private.
+Create new abap class in $TMP package, that will select all users data, last logon and propose those which should be blocked as they're not using the system. Create unit test for all methods including private.
+Run ATC and Unit Tests checks after creation and correct all major errors.
 ```
