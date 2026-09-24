@@ -2,7 +2,7 @@
 Agentic ABAP in Action: Building SAP Development Agents with ARC-1 MCP and GitHub Copilot
 
 
-# 01. Workshop Overview
+# Workshop Overview
 
 ## Agenda
 - MCP, agents, and ARC-1 overview 
@@ -22,7 +22,7 @@ Agentic ABAP in Action: Building SAP Development Agents with ARC-1 MCP and GitHu
 - An SAP user with the ADT authorizations required for the exercises.
 - A safe test object or package. Use `$TMP` or an approved workshop package for writes.
 
-# 02.  MCP, agents, and ARC-1
+# MCP, agents, and ARC-1
 
 [MCP](https://modelcontextprotocol.io/) lets an AI client discover and call
 structured tools exposed by an MCP server:
