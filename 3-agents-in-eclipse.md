@@ -35,5 +35,6 @@ Click on the Configure tools... in the agent md file. Once the settings of the t
 
 <img width="834" height="369" alt="image" src="https://github.com/user-attachments/assets/396e428a-de5b-4a31-b585-4409b274ac87" />
 
+Come back to editor and add Description and instruction for agent. Sample [Quick Quality Gate agent](/agents/quickqualitygate.agent.md)
 
 
