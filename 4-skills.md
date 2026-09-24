@@ -10,5 +10,15 @@ If you go to [Skills.sh](https://skills.sh) you'll find lots of skill ready to d
 You'll find there also ARC-1 skills which you can easily download from git [Repo](https://github.com/arc-mcp/arc-1/tree/main/skills). Easiest way is to download full repo as zip
 and then copy the full content of the skills folders into your special project under .github/skills folder.
 
+Open the downloaded repo ZIP file and find Skills folder. Copy it.
+
+<img width="1025" height="463" alt="image" src="https://github.com/user-attachments/assets/bc8b6edd-7df3-4924-9bba-c182a461c44c" />
+
+Then locate the folder of the GHCopilotInstruction project, then paste the Skills folder into .github/ folder. 
+
+<img width="744" height="224" alt="image" src="https://github.com/user-attachments/assets/03025dec-a629-4285-9393-9b0874481f62" />
+
+
+
 
 
