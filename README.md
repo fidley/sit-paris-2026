@@ -47,3 +47,5 @@ is read-only by default. Writes, table preview, free SQL, transport mutations,
 and Git mutations are separate opt-ins.
 
 [Full documentation](https://docs.arc-1-mcp.com/)
+
+# ARC-1 [installation](1-installation.md)
