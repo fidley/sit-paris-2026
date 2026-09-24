@@ -34,6 +34,9 @@ If we now rethink how our agents should looks like, we should get an idea that a
 Many of the users of AI tools, don't spent time on creation of the agents, but they focus on skills, which are then called explicitly.
 
 The added value of having agents is, that you can define agent that will decide which skill to use on a base context or input data from user. Correctly defined
-agent reduce token consumption and leads to faster results.
+agent reduce token consumption and leads to faster results. Agent can also decide which, from the multi-environment landscape, MCP server to use. Can restrict usage
+of not wanted MCP servers.
+
+More details about the ARC-1 predefined skills you can get from [ARC-1 documentation](https://docs.arc-1-mcp.com/skills/)
 
 
