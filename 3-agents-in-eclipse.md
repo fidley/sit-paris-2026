@@ -45,4 +45,4 @@ Inside the chat, write
 
 <img width="707" height="612" alt="image" src="https://github.com/user-attachments/assets/df4f6669-2d76-4fc7-9ee3-478a4f46e86d" />
 
-
+##
