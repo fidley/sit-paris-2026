@@ -35,20 +35,20 @@ Please check [tools documentation](https://docs.arc-1-mcp.com/tools/) to get mor
 ARC-1 exposes 12 core intent-based tools. Availability adapts to the SAP
 system's detected features, release, and safety settings.
 
-| Tool | Purpose | Workshop example |
+| Tool | Purpose | 
 | --- | --- | --- |
-| `SAPRead` | Read source, metadata, packages, drafts, revisions, tables, CDS, UI5, and system information | Read `ZCL_WORKSHOP_DEMO` |
-| `SAPSearch` | Find objects by name or source text | Find `ZCL_FALV*` |
-| `SAPWrite` | Create, update, delete, or surgically edit ABAP objects | Create a `$TMP` report |
-| `SAPActivate` | Activate one object or a dependent batch | Activate a RAP stack |
-| `SAPNavigate` | Find definitions, references, completion, or class hierarchy | Find callers |
-| `SAPQuery` | Execute ABAP SQL through ADT | Query approved data, only when enabled |
-| `SAPTransport` | Inspect and manage CTS requests | Check transport requirements |
-| `SAPGit` | Inspect gCTS or use gated abapGit workflows | List repositories |
-| `SAPContext` | Dependency, usage, or CDS impact context | Explain a class before editing |
-| `SAPLint` | Run local abaplint or SAP Pretty Printer operations | Lint ABAP |
-| `SAPDiagnose` | Syntax, ABAP Unit, ATC, dumps, traces, and gateway diagnostics | Run ATC |
-| `SAPManage` | Probe features, inspect cache, manage packages and selected FLP objects | Probe RAP |
+| `SAPRead` | Read source, metadata, packages, drafts, revisions, tables, CDS, UI5, and system information 
+| `SAPSearch` | Find objects by name or source text | 
+| `SAPWrite` | Create, update, delete, or surgically edit ABAP objects |
+| `SAPActivate` | Activate one object or a dependent batch | 
+| `SAPNavigate` | Find definitions, references, completion, or class hierarchy | 
+| `SAPQuery` | Execute ABAP SQL through ADT |
+| `SAPTransport` | Inspect and manage CTS requests | 
+| `SAPGit` | Inspect gCTS or use gated abapGit workflows | 
+| `SAPContext` | Dependency, usage, or CDS impact context | 
+| `SAPLint` | Run local abaplint or SAP Pretty Printer operations |
+| `SAPDiagnose` | Syntax, ABAP Unit, ATC, dumps, traces, and gateway diagnostics | 
+| `SAPManage` | Probe features, inspect cache, manage packages and selected FLP objects |
 
 ## Tool selection rule
 
