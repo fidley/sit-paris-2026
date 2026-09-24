@@ -28,5 +28,12 @@ For example ```/skill:explain-abap-code```. Check the results and asses their va
 ## Go into skills interior
 
 Open one of the provided skill files, for example the [explain-abap-code](https://github.com/arc-mcp/arc-1/blob/main/skills/explain-abap-code/SKILL.md).
+Read it and compare it to the agents we've created before. The skills are definitely more detailed and prepared to fulfill one single very specific task.
+
+If we now rethink how our agents should looks like, we should get an idea that agent should be more abstract, defining persona or role, but not specific skills.
+Many of the users of AI tools, don't spent time on creation of the agents, but they focus on skills, which are then called explicitly.
+
+The added value of having agents is, that you can define agent that will decide which skill to use on a base context or input data from user. Correctly defined
+agent reduce token consumption and leads to faster results.
 
 
