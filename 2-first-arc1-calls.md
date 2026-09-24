@@ -36,8 +36,8 @@ ARC-1 exposes 12 core intent-based tools. Availability adapts to the SAP
 system's detected features, release, and safety settings.
 
 | Tool | Purpose | 
-| --- | --- | --- |
-| `SAPRead` | Read source, metadata, packages, drafts, revisions, tables, CDS, UI5, and system information 
+| --- | --- |
+| `SAPRead` | Read source, metadata, packages, drafts, revisions, tables, CDS, UI5, and system information |
 | `SAPSearch` | Find objects by name or source text | 
 | `SAPWrite` | Create, update, delete, or surgically edit ABAP objects |
 | `SAPActivate` | Activate one object or a dependent batch | 
