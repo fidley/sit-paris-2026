@@ -31,5 +31,9 @@ Once saved, the agent md file will be opened and it will also appear in the Proj
 
 <img width="1566" height="242" alt="image" src="https://github.com/user-attachments/assets/417d04a7-1b85-4507-a667-931543f77207" />
 
+Click on the Configure tools... in the agent md file. Once the settings of the tools will be open, mark the tools as shown on the screen.
+
+<img width="834" height="369" alt="image" src="https://github.com/user-attachments/assets/396e428a-de5b-4a31-b585-4409b274ac87" />
+
 
 
