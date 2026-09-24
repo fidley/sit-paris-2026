@@ -39,4 +39,4 @@ of not wanted MCP servers.
 
 More details about the ARC-1 predefined skills you can get from [ARC-1 documentation](https://docs.arc-1-mcp.com/skills/)
 
-
+## [Next Level](5-next-level.md)
