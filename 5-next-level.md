@@ -40,3 +40,7 @@ Popose those which should be blocked as they're not using the system.
 Create unit test for all methods including private.
 Run ATC and Unit Tests checks after creation and correct all major errors.
 ```
+
+## Multi-MCP agent
+In order to achieve the best results, we should not focus on one single MCP server usage. SAP provides us the ABAP-MCP server, there are many community driven ones. MCP for ticketing systems, Jira, DevOps etc.
+Combining specific parts from them, is the best way to get the best results, but in the same time, takes a lot of time for investigation and tests.
