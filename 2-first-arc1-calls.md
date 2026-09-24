@@ -25,3 +25,11 @@ To see what's happening behind, go to Docker-> Containers->arc1-dev->logs
 
 You should notice usage of SAPTransport and SAPRead tools.
 <img width="1622" height="309" alt="image" src="https://github.com/user-attachments/assets/00f58a3c-7ff4-4c57-b1ab-b9cfa7dbff33" />
+
+
+## Tools documentation
+Please check [tools documentation](https://docs.arc-1-mcp.com/tools/) to get more information about how the tools can be used
+
+
+
+## Agents in Eclipse [Why so complicated](3-agents-in-eclipse.md)
