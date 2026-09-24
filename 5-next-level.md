@@ -1,6 +1,7 @@
 # Next level, agent with skills
 
-## Run skill
+## Managing one skill
+
 Change the mode to Agent and run following command in the chat
 ```
 /skill:sap-object-documenter for package xxxx
@@ -24,4 +25,5 @@ Document package xxx
 Now the result are exactly where we stated. We could create second agent, that will use same skill, but will point other folder as the destination for example.
 
 
-##
+## Multi-skill agent
+
