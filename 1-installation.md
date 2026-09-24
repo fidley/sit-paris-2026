@@ -91,8 +91,7 @@ Go to Eclipse and Copilot preferences, MCP Settings and add this server
    },
      "arc1-qa": {
         "url": "http://localhost:8081/mcp"
-   },
-
+   }
   }
 }
 ```
