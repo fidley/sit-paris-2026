@@ -98,4 +98,4 @@ Go to Eclipse and Copilot preferences, MCP Settings and add this server
 After adding press Apply and check the visible tools under arc1-qa MCP. Please notice some of the tools like SAPWrite is not visible
 <img width="694" height="296" alt="image" src="https://github.com/user-attachments/assets/4373858f-0a4f-4b73-bc23-bc63e75f476a" />
 
-[Lets have fun](2-first-arc1-calls.md)
+## [Lets have fun](2-first-arc1-calls.md)
