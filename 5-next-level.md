@@ -27,3 +27,9 @@ Now the result are exactly where we stated. We could create second agent, that w
 
 ## Multi-skill agent
 
+Real power of agents is combined with several skills. When we have skills that works well, we can start to bundle them in one agent, or use selectively inside the agent.
+
+
+```
+Create new abap class in $TMP package, that will select all users data, last logon and propose those which should be blocke as they're not using the system. Create unit test for all methods including private.
+```
