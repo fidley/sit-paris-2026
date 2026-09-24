@@ -23,9 +23,13 @@ Make sure that .* resources filter is deactivated
 
 <img width="487" height="471" alt="image" src="https://github.com/user-attachments/assets/40906ac0-a4c8-4434-b925-80b55bf4dc4d" />
 
-Now open Copilot preferences, then go to Custom Agents and press Add. Select the project you just created and add the name of the agent. 
+Now open Copilot preferences, then go to Custom Agents and press Add. Select the project you just created and add the name of the agent, for example QuickQualityGate.
 
 <img width="899" height="573" alt="image" src="https://github.com/user-attachments/assets/e3b53721-436e-42d9-b60d-2b0585766c4b" />
+
+Once saved, the agent md file will be opened and it will also appear in the Project Explorer view in the .github/agents/ folder.
+
+<img width="1566" height="242" alt="image" src="https://github.com/user-attachments/assets/417d04a7-1b85-4507-a667-931543f77207" />
 
 
 
