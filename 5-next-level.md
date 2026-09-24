@@ -19,5 +19,9 @@ After creation, select it from agent list and run command.
 Document package xxx
 ```
 
-
 <img width="511" height="498" alt="image" src="https://github.com/user-attachments/assets/bafe508b-7554-47fb-8ef3-2b76c4d1d309" />
+
+Now the result are exactly where we stated. We could create second agent, that will use same skill, but will point other folder as the destination for example.
+
+
+##
