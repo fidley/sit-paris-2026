@@ -11,7 +11,11 @@ the result may be written in wrong place, like in my examlpe:
 
 <img width="267" height="165" alt="image" src="https://github.com/user-attachments/assets/0b94d29f-aeee-4a8e-aeef-038caa93f7ba" />
 
-To secure it, lets create a new agent, this time 
+To secure it, lets create a new agent, this time SAP-Object-Documenter.
+
+```
+Document package ZBC_ALV
+```
 
 
 <img width="511" height="498" alt="image" src="https://github.com/user-attachments/assets/bafe508b-7554-47fb-8ef3-2b76c4d1d309" />
