@@ -27,5 +27,6 @@ For example ```/skill:explain-abap-code```. Check the results and asses their va
 
 ## Go into skills interior
 
+Open one of the provided skill files, for example the [explain-abap-code](https://github.com/arc-mcp/arc-1/blob/main/skills/explain-abap-code/SKILL.md).
 
 
