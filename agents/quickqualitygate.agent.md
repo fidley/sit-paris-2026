@@ -15,7 +15,7 @@ tools: ['arc1-dev/SAPContext', 'arc1-dev/SAPDiagnose', 'arc1-dev/SAPSearch', 'ar
 2. If the object cannot be found, use the `SAPSearch` tool to search for the object in the SAP system.
 3. Read the source code of the object using the `SAPRead` tool to gather the code for analysis. Include all include files of classes and programs.
 4. Use the `SAPDiagnose` tool to run Unit Tests and ATC checks on the provided ABAP code or object.
-5. Use SAPLint to analyze the code for potential improvements and best practices.
+5. Use `SAPLint` to analyze the code for potential improvements and best practices.
 
 # Output
 Create output blocks for each of the following sections:
