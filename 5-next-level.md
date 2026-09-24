@@ -35,6 +35,8 @@ Selecting the agent in Copilot before writing a prompt, secures correct skills s
 Create the agent on your end and use this prompt to see the results.
 
 ```
-Create new abap class in $TMP package, that will select all users data, last logon and propose those which should be blocked as they're not using the system. Create unit test for all methods including private.
+Create new abap class in $TMP package, that will select all users data and theirs last logon.
+Popose those which should be blocked as they're not using the system.
+Create unit test for all methods including private.
 Run ATC and Unit Tests checks after creation and correct all major errors.
 ```
