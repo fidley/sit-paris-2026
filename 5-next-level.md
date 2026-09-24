@@ -11,7 +11,7 @@ the result may be written in wrong place, like in my examlpe:
 
 <img width="267" height="165" alt="image" src="https://github.com/user-attachments/assets/0b94d29f-aeee-4a8e-aeef-038caa93f7ba" />
 
-To secure it, lets create a new agent, this time SAP-Object-Documenter.
+To secure it, lets create a new agent, this time [SAP-Object-Documenter](/agents/sap-object-documenter.agent.md).
 
 ```
 Document package ZBC_ALV
