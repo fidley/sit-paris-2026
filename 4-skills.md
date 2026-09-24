@@ -18,6 +18,10 @@ Then locate the folder of the GHCopilotInstruction project, then paste the Skill
 
 <img width="744" height="224" alt="image" src="https://github.com/user-attachments/assets/03025dec-a629-4285-9393-9b0874481f62" />
 
+In the Project Explorer refresh the content of the GHCopilotInstruction folder. Then in the Copilot Chat start writing `/skill`
+
+<img width="1893" height="851" alt="image" src="https://github.com/user-attachments/assets/b2c9cf98-3eaf-479c-a6e2-2ded577b730c" />
+
 
 
 
