@@ -9,7 +9,6 @@ Agentic ABAP in Action: Building SAP Development Agents with ARC-1 MCP and GitHu
 - ARC-1 installation on Docker installation and SAP connection 
 - Eclipse and Copilot MCP setup
 - Explore a package and ABAP object 
-- Dependencies, where-used, lint, diagnosis 
 - Controlled `$TMP` write and activation 
 - Skills, agents, troubleshooting, Q&A 
 
