@@ -13,8 +13,10 @@ the result may be written in wrong place, like in my examlpe:
 
 To secure it, lets create a new agent, this time [SAP-Object-Documenter](/agents/sap-object-documenter.agent.md).
 
+After creation, select it from agent list and run command.
+
 ```
-Document package ZBC_ALV
+Document package xxx
 ```
 
 
