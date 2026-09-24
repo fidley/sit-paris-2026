@@ -25,6 +25,7 @@ In the Project Explorer refresh the content of the GHCopilotInstruction folder. 
 As you can see, all skills are available to be called explicitly. Try one or more skill on any development object you have on your dev system.
 For example ```/skill:explain-abap-code```. Check the results and asses their value.
 
+## Go into skills interior
 
 
 
